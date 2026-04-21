@@ -7,3 +7,5 @@ Collection of scripts to help automate common AWS tasks
 * ec2-list-all-instances.py - Print list of all ec2 instances, their IPs and state for given regions.
 
 * scan-security-groups.py -  Print list of all security groups and their inbound/outbound rules, for given regions.
+
+* polly-to-mp3 - Generete mp3 file with sample text for selected polly voice 
