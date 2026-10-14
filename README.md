@@ -9,3 +9,5 @@ Collection of scripts to help automate common AWS tasks
 * scan-security-groups.py -  Print list of all security groups and their inbound/outbound rules, for given regions.
 
 * polly-to-mp3 - Generete mp3 file with sample text for selected polly voice 
+
+* find-orphand-resources.py - Finds common sources of waste like old snapshots, unattached volumes, etc.
